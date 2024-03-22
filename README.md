@@ -1,5 +1,6 @@
 # Estatística - Probabilidade e Amostragem
 Exercícios de probabilidade e amostragem com Python.
+
 Você é uma pesquisadora desenvolvendo uma análise sobre as características da força de trabalho nos estados brasileiros. Diversas perguntas respondidas como:
 
 1. Considere pessoas fluentes em inglês, qual a probabilidade
